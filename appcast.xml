@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.1</title>
-      <pubDate>Mon, 02 Nov 2026 01:29:31 GMT</pubDate>
-      <sparkle:version>457</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.2</title>
+      <pubDate>Mon, 02 Nov 2026 02:23:40 GMT</pubDate>
+      <sparkle:version>464</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Terminals you can watch and take over, the vault for agents' logins, setup recipes, snapshots, a nicer desktop on computers, a sidebar notice when the server gains features, and a hire shows as one card.</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.1/Hummingbird-0.1.1.dmg" length="14467523" type="application/octet-stream" sparkle:edSignature="u+c+SLxHk+M3/tgetCx4my9/6i4WY+sMqUqvGQFn5NEIbYR+q0RZuYzPITTOl2YpQF9Uo1xKJjPHufKA6F0nBw=="/>
+      <description><![CDATA[<p>See this month's usage in Settings › Usage and your avatar menu, and agents can run Claude Code in their computers on your organisation's own Anthropic key.</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.2/Hummingbird-0.1.2.dmg" length="14542666" type="application/octet-stream" sparkle:edSignature="atBt4LMwAusdRcPWyFS55AJvIrywbMR9xGQ9QVqtLulQDL/1SvLwaGeoL+S1m/9BhmUMbq84R3wQNMbcgjkTCw=="/>
     </item>
   </channel>
 </rss>
