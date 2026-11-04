@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.3</title>
-      <pubDate>Mon, 02 Nov 2026 11:34:29 GMT</pubDate>
-      <sparkle:version>520</sparkle:version>
-      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.4</title>
+      <pubDate>Wed, 04 Nov 2026 00:22:28 GMT</pubDate>
+      <sparkle:version>563</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Hummingbird 0.1.3.</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.3/Hummingbird-0.1.3.dmg" length="14631963" type="application/octet-stream" sparkle:edSignature="HfIVxHHmPMLZhoSdgfe92G54xX0+3oq/CkgpIwlguxBpHfrfAorJ8eISYaDDvZ4VVl01+TBmp2kGaOSf8WB/Ag=="/>
+      <description><![CDATA[<p>Files open again from chat and Files, filling the window: documents rendered, pages live, sheets as a grid, with Export. Replies show what they answer; click the quote to jump to it.</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.4/Hummingbird-0.1.4.dmg" length="14871648" type="application/octet-stream" sparkle:edSignature="hzuI2tPreGt8yTs1Ud3QV6zXAmGJw5OJWMJPE02UrBi7+3pajzM6sszNJ4oZC+HgfOOT2OLawqyN9l2kpjA8DA=="/>
     </item>
   </channel>
 </rss>
