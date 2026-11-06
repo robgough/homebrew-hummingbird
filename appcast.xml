@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.7</title>
-      <pubDate>Fri, 06 Nov 2026 22:49:53 GMT</pubDate>
-      <sparkle:version>579</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.8</title>
+      <pubDate>Fri, 06 Nov 2026 23:47:01 GMT</pubDate>
+      <sparkle:version>586</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Add more than one connection to the same connector, keep a maximised computer awake with a warning before it sleeps, and see page previews without loading the page.</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.7/Hummingbird-0.1.7.dmg" length="15020309" type="application/octet-stream" sparkle:edSignature="CqeskMPPuD23OHBVtpWr+TaqmOvEadyHYeeOBz8LNIA7DJw0Hds2AKJoY/5YS+1WD7ICoowNbKm5Q1jAdJmXAA=="/>
+      <description><![CDATA[<p>Agents can make images and see the pictures you share, files you drop wait above the message box until you send, a DM can be picked for a connector, and Gmail can be connected.</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.8/Hummingbird-0.1.8.dmg" length="15045904" type="application/octet-stream" sparkle:edSignature="P5qk5g6Jh4LnuwYSyA9/jbpjsplSPJnIuHz7dNdGuCb5MJIVi6qpXVFApJVaj8l+0CfTjlP3nS4O2O60eM1SDg=="/>
     </item>
   </channel>
 </rss>
