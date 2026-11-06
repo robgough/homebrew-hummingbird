@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.5</title>
-      <pubDate>Wed, 04 Nov 2026 00:39:21 GMT</pubDate>
-      <sparkle:version>564</sparkle:version>
-      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.7</title>
+      <pubDate>Fri, 06 Nov 2026 22:49:53 GMT</pubDate>
+      <sparkle:version>579</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Clicking the Dock icon brings the window back after you've closed it; Window ▸ Hummingbird (⌘0) too.</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.5/Hummingbird-0.1.5.dmg" length="14873972" type="application/octet-stream" sparkle:edSignature="OFcNWnUyn4hqOoYosD4XuzVFRIyWLHv8mOrDGpoEMH+KiSfqWUJshokpJl65XNuFhOEM+CSYVVIsyFwfQ7KaCA=="/>
+      <description><![CDATA[<p>Add more than one connection to the same connector, keep a maximised computer awake with a warning before it sleeps, and see page previews without loading the page.</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.7/Hummingbird-0.1.7.dmg" length="15020309" type="application/octet-stream" sparkle:edSignature="CqeskMPPuD23OHBVtpWr+TaqmOvEadyHYeeOBz8LNIA7DJw0Hds2AKJoY/5YS+1WD7ICoowNbKm5Q1jAdJmXAA=="/>
     </item>
   </channel>
 </rss>
