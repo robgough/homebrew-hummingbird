@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.8</title>
-      <pubDate>Fri, 06 Nov 2026 23:47:01 GMT</pubDate>
-      <sparkle:version>586</sparkle:version>
-      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.9</title>
+      <pubDate>Sat, 07 Nov 2026 01:03:20 GMT</pubDate>
+      <sparkle:version>590</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Agents can make images and see the pictures you share, files you drop wait above the message box until you send, a DM can be picked for a connector, and Gmail can be connected.</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.8/Hummingbird-0.1.8.dmg" length="15045904" type="application/octet-stream" sparkle:edSignature="P5qk5g6Jh4LnuwYSyA9/jbpjsplSPJnIuHz7dNdGuCb5MJIVi6qpXVFApJVaj8l+0CfTjlP3nS4O2O60eM1SDg=="/>
+      <description><![CDATA[<p>Agents can work from your photos when making images, Gmail and Google Calendar connectors, each message shows the picture it posted, and dictating with files waiting no longer sends them early.</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.9/Hummingbird-0.1.9.dmg" length="15050188" type="application/octet-stream" sparkle:edSignature="KWcCklnrRBG32mRf79hH2ZQ+PGk3cO48I91pkWDv4pRNxBgNwcKk69M7vY2VdIa2uzshwfHPrCG2iSj8/DozCA=="/>
     </item>
   </channel>
 </rss>
