@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.11</title>
-      <pubDate>Sun, 08 Nov 2026 19:45:59 GMT</pubDate>
-      <sparkle:version>595</sparkle:version>
-      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.12</title>
+      <pubDate>Sun, 08 Nov 2026 23:50:09 GMT</pubDate>
+      <sparkle:version>598</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Charts and tables in messages: agents can draw bar, line and pie charts, and Markdown tables show as tables.</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.11/Hummingbird-0.1.11.dmg" length="15100615" type="application/octet-stream" sparkle:edSignature="nUQ3sdevo8LHMIhl65xloHxcxLjmU3t/LJ1Y5nRxJsv7tjZo4JZ7RRLQLRcoz3lqhlauqLPZrTYjGuO8YVopAQ=="/>
+      <description><![CDATA[<p>Settings › Memory: see and change what agents keep in mind about you, and the org's lessons</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.12/Hummingbird-0.1.12.dmg" length="15198394" type="application/octet-stream" sparkle:edSignature="6b829HumHeH0Vsc2/k8o4irNfo1w/01dnXj+ztuWA/Wrzmpu+aa1gEnikUBgVulMrHLwOt8FuWiE13T4Qs+3Ag=="/>
     </item>
   </channel>
 </rss>
