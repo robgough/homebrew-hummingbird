@@ -1,6 +1,6 @@
 cask "hummingbird" do
-  version "0.1.10"
-  sha256 "c5cac64cd55981a2bea3b1e1f75e04f95f7522bd9ddcc7da227e73f4789f79ff"
+  version "0.1.11"
+  sha256 "928483575f0fb8c557aa1bbd61681d5f34045f33b18473b6d78851f84dccf80b"
 
   url "https://github.com/robgough/homebrew-hummingbird/releases/download/v#{version}/Hummingbird-#{version}.dmg"
   name "Hummingbird"
