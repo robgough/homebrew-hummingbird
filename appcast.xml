@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.12</title>
-      <pubDate>Sun, 08 Nov 2026 23:50:09 GMT</pubDate>
-      <sparkle:version>598</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.13</title>
+      <pubDate>Mon, 09 Nov 2026 03:42:09 GMT</pubDate>
+      <sparkle:version>602</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Settings › Memory: see and change what agents keep in mind about you, and the org's lessons</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.12/Hummingbird-0.1.12.dmg" length="15198394" type="application/octet-stream" sparkle:edSignature="6b829HumHeH0Vsc2/k8o4irNfo1w/01dnXj+ztuWA/Wrzmpu+aa1gEnikUBgVulMrHLwOt8FuWiE13T4Qs+3Ag=="/>
+      <description><![CDATA[<p>Hummingbird 0.1.13.</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.13/Hummingbird-0.1.13.dmg" length="15206449" type="application/octet-stream" sparkle:edSignature="Z2xxNa2UZfgMvWUuAljjr4Rz7t/9K2VPTm0qZWtqoSr0dgUFkF+qkMCrRpwDZxA4L3ceOInayCdPFccsn5FaAA=="/>
     </item>
   </channel>
 </rss>
