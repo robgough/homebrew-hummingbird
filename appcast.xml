@@ -3,13 +3,13 @@
   <channel>
     <title>Hummingbird</title>
     <item>
-      <title>Hummingbird 0.1.18</title>
-      <pubDate>Tue, 24 Nov 2026 13:47:43 GMT</pubDate>
-      <sparkle:version>676</sparkle:version>
-      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <title>Hummingbird 0.1.19</title>
+      <pubDate>Tue, 24 Nov 2026 16:31:12 GMT</pubDate>
+      <sparkle:version>677</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Hummingbird 0.1.18.</p>]]></description>
-      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.18/Hummingbird-0.1.18.dmg" length="16036087" type="application/octet-stream" sparkle:edSignature="CF5pg9HHyi51/QDgc4vWU9sTDUP6Q6aW+xfELhpmt4k7roUbZk9LvBFqyvIP+gm9YYnYtcYjbKBSUKJIvHxYCQ=="/>
+      <description><![CDATA[<p>Hummingbird 0.1.19.</p>]]></description>
+      <enclosure url="https://github.com/robgough/homebrew-hummingbird/releases/download/v0.1.19/Hummingbird-0.1.19.dmg" length="16038506" type="application/octet-stream" sparkle:edSignature="iWrkzQ4QI0dKReeo2ke6oBiGdLTfneyhmEsw+GeWlMm/HjVLMrjewbd4gVNc/uLIFZsu2tLa492zN+twcKuwBQ=="/>
     </item>
   </channel>
 </rss>
